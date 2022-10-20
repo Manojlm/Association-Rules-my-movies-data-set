@@ -1,1 +1,1 @@
-# Association-Rules-my-movies-data-set
+# Association-Rules-book-dataset
